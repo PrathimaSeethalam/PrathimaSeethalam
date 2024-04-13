@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prathimaseethalam" alt="prathimaseethalam" /></a> </p>
 
-- 🔭 I’m currently working on **StayMatch**
+- 🔭 I’m currently working on **E-Commerce Application**
 
-- 🌱 I’m currently learning **Figma**
+- 🌱 I’m currently learning **NEXT JS and AWS**
 
 - 💬 Ask me about **React, Spring, Java, Python**
 
