@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prathimaseethalam" alt="prathimaseethalam" /></a> </p>
 
-- 🔭 I’m currently working on **E-Commerce Application**
+- 🔭 I’m currently working on **Data Viz Application**
 
 - 🌱 I’m currently learning **NEXT JS and AWS**
 
-- 💬 Ask me about **React, Spring, Java, Python**
+- 💬 Ask me about **React JS , NEXT JS, Redux, Spring, Java, Python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
